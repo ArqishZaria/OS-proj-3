@@ -1,0 +1,4 @@
+[Blue Team Daemon] Initializing Autonomous Defense...
+[Daemon] Successfully pinned Blue Team to CPU Core 3.
+[FORENSICS] {"timestamp": 1790511053.3859632, "causal_chain": "PID_58177 -> CPU_starvation", "collateral_damage_avoided": false, "action_attempted": "kill -9 <PID>58177", "policy_compliant": false, "policy_reason": "Forbidden keyword detected: >"}
+[Executor Blocked] Forbidden keyword detected: >
